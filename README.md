@@ -17,20 +17,19 @@ Here are some ideas to get you started:
 
 <!-- @format -->
 
-### <h1>Hello there:godmode:</h1>
+### <h1>Hello there (Kenobi):godmode:</h1>
 - 🌱 I’m an aspiring Full-Stack Developer
 ```python
-class ari:
+class ali:
   def __init__(info):
     info.aboutme = {
             "email": ["ali"],
-            "personal info": ["Ari", "Razab", "26", "Male"],
-            "portfolio": ["https://www.arii.me/"],
-            "location": ["Germany", "Rheinland-Pfalz"],
+            "personal info": ["Ali", "Rusta", "32", "Male"],
+            "portfolio": ["https://url/"],
+            "location": ["Germany", "Nordrhine-Westphalia"],
     }
 ```
 - 💬 Feel Free to contact me
-
 
 - ⚡ Fun fact: I want to sleep
 - 🤔 I Work with: <br><br> <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
